@@ -1,0 +1,9 @@
+#include<stdio.h>
+
+int m ain(){ 
+ printf(“Este es mi segundo codigo”); 
+ printf(“Programar es facil”); 
+ printf(“Voy a compartir con mi compañero el codigo”); 
+ printf(“\nAldo Vazquez\n”);
+ return 0; 
+} 
